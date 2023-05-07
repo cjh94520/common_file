@@ -101,7 +101,7 @@
 
 对小程序使用体验上有任何疑问，欢迎加入群聊跟我们细谈~
 
-**QQ群**：点击链接加入群聊【【记账鹿】使用交流群】：[加入Q群](https://link.zhihu.com/?target=http%3A//qm.qq.com/cgi-bin/qm/qr%3F_wv%3D1027%26k%3DRlBinP6RH7w_wsKA1Cgt7-tDrywCE4_r%26authKey%3DrH62KB6eUWlXTpaBFOjEjC2DT8T2wm3JD65TkGdx6ymTPjThp%252FX63ymqTh9Guyoe%26noverify%3D0%26group_code%3D820157476)
+**QQ群**：点击链接加入群聊【【记账鹿】使用交流群】：[加入Q群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=i7_jeVVq3rrqG0T3GZR-qX0oafq0jjOq&authKey=s6SVarCbnjAB9He2jbHqftNm1u4Ik4oW5jJT%2BBJ3E%2BRfdHCaLf5V15gE0umCEP2k&noverify=0&group_code=820157476)
 
 **微博**：[记账鹿官方微博](https://weibo.com/u/7837879814)
 * * *
