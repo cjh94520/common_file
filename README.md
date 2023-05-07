@@ -10,10 +10,14 @@
 
 ## 记账鹿自动交易记录
 
-平台自己的测试交易账号，会同步记账鹿自动跟单的所有交易记录到公开的第三方平台，欢迎大家查验。
+记账鹿平台自己的测试交易账号，会同步记账鹿自动跟单的所有交易记录到公开的第三方平台，欢迎大家查验。
 
 币Coin：
-![coincoin.jpg](https://upload-images.jianshu.io/upload_images/29045875-f58b987e99edd8b3.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![微信截图_20230507195031.png](https://upload-images.jianshu.io/upload_images/29045875-e0cfff36904ee2df.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
+
 
 
 
@@ -44,13 +48,10 @@
 
 ### 入口
 
-首先，在微信客户端，点击搜索栏，搜索"记账鹿"，点击小程序进入即可使用
+首先，在**微信**客户端，点击搜索栏，搜索"记账鹿"，点击小程序进入即可使用
 
-![1.jpg](https://upload-images.jianshu.io/upload_images/29045875-2c95563556b5eedb.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![3_副本1.png](https://upload-images.jianshu.io/upload_images/29045875-8deb1bbe5415bcbd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![2.jpg](https://upload-images.jianshu.io/upload_images/29045875-3dc55b05c59f748a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![3.jpg](https://upload-images.jianshu.io/upload_images/29045875-20d268fe193c6774.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 核心目前主要是跟单区
@@ -66,47 +67,31 @@
 完成交易权限配置
 
 目前用户自动交易的订单都在币安平台进行处理，所以需要用户切到币安交易平台申请API。下面是币安Android 的操作流程。
+![a1.jpg](https://upload-images.jianshu.io/upload_images/29045875-8a662a96754690bf.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![1.jpg](https://upload-images.jianshu.io/upload_images/29045875-1aea88928d6aaa23.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![a2.jpg](https://upload-images.jianshu.io/upload_images/29045875-9958146696b68c21.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![2.jpg](https://upload-images.jianshu.io/upload_images/29045875-39faca03d4dd58a5.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![a3.jpg](https://upload-images.jianshu.io/upload_images/29045875-2d2a71310cdc155a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![3.jpg](https://upload-images.jianshu.io/upload_images/29045875-7d2dc280bfb62548.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![4.jpg](https://upload-images.jianshu.io/upload_images/29045875-d32496adff48adde.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![5_a.png](https://upload-images.jianshu.io/upload_images/29045875-cdbab4c8ae8a8258.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![6.jpg](https://upload-images.jianshu.io/upload_images/29045875-eb446623b4456e4b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![7.jpg](https://upload-images.jianshu.io/upload_images/29045875-45033c226ef4449d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 ### 第二步
 
 完成交易策略配置
-![1.jpg](https://upload-images.jianshu.io/upload_images/29045875-e20a3d729a7c1852.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![a1.jpg](https://upload-images.jianshu.io/upload_images/29045875-a3f4e09241b4c52e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![2.jpg](https://upload-images.jianshu.io/upload_images/29045875-80f7e19e63c98e47.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![a2.jpg](https://upload-images.jianshu.io/upload_images/29045875-c6d1bc84b4934039.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![3.jpg](https://upload-images.jianshu.io/upload_images/29045875-e7f341d58d33de2d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![4.jpg](https://upload-images.jianshu.io/upload_images/29045875-a5abb41dd44e3582.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![5.jpg](https://upload-images.jianshu.io/upload_images/29045875-edf1ad66e0dc62cf.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![6.jpg](https://upload-images.jianshu.io/upload_images/29045875-ff3157cf5b2c1852.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 ### 第三步
 
 等待订单到来
 
-![微信图片_20230507114350.jpg](https://upload-images.jianshu.io/upload_images/29045875-49dc43b5b962e976.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![a2.jpg](https://upload-images.jianshu.io/upload_images/29045875-2cde4b6e0eed972a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![微信图片_202305071143501.jpg](https://upload-images.jianshu.io/upload_images/29045875-5b233ab41bf7b13e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![微信图片_202305071143502.jpg](https://upload-images.jianshu.io/upload_images/29045875-afae3628ac6c7c6a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 ## 关于我们
@@ -115,7 +100,9 @@
 
 **QQ群**：点击链接加入群聊【【记账鹿】使用交流群】：[加入Q群](https://link.zhihu.com/?target=http%3A//qm.qq.com/cgi-bin/qm/qr%3F_wv%3D1027%26k%3DRlBinP6RH7w_wsKA1Cgt7-tDrywCE4_r%26authKey%3DrH62KB6eUWlXTpaBFOjEjC2DT8T2wm3JD65TkGdx6ymTPjThp%252FX63ymqTh9Guyoe%26noverify%3D0%26group_code%3D820157476)
 
+**微博**：[记账鹿官方微博](https://weibo.com/u/7837879814)
 * * *
+
 
 记账鹿 是一款为交易者们搭建互助共赢、自由交流的平台，成为专业交易者和交易新人的桥梁。
 在这里，交易者们可以体验自助跟单，共同打造新型交易社区。
